@@ -1,7 +1,7 @@
 import socket
 
 target = "ssh.0x10.cloud"
-port = 2121
+port = 2323
 
 print("=" * 50)
 print("  Open Port Check (Telnet)")
