@@ -19,7 +19,7 @@
 
 import socket
 
-target = "telnet.0x10.cloud"
+target = "ssh.0x10.cloud"
 port = 2323
 
 print("=" * 50)

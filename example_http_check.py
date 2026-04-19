@@ -14,7 +14,7 @@
 
 import urllib.request
 
-target = "http://blog.0x10.cloud"
+target = "https://old.0x10.cloud/"
 
 print("=" * 50)
 print("  HTTPS Check")
