@@ -20,8 +20,7 @@ Each team member records a short video (max 3 minutes) explaining their vulnerab
 - Austin: https://www.youtube.com/watch?v=ncS4hi9sr98
 - Salman: https://youtube.com/watch?v=sgFB4Z5MO_I
 - Hunter: https://www.youtube.com/watch?v=AbkXYNjAdjU
-- Landon: https://youtube.com/watch?v=_______
-
+- Landon: https://youtube.com/watch?v=5I0iCUtJflM
 ## Target
 
 - Server: `0x10.cloud` and its subdomains
