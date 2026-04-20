@@ -11,7 +11,7 @@ Team EdgeRunnerzz
 | Austin | Legacy Server Security Analysis | austin_legacy_analysis |
 | Salman | sensitive files open to the public|file.0x10
 | Hunter | 	Deceptive Resources | hunterBranch |
-| Landon | _______ | _______ |
+| Landon | Exposed Backup Files | backup.py |
 
 ## Videos
 
