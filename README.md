@@ -10,7 +10,7 @@ Team EdgeRunnerzz
 |--------|-------------------|-------------|
 | Austin | _______ | _______ |
 | Salman | _______ | _______ |
-| Hunter | _______ | _______ |
+| Hunter | 	Deceptive Resources | _______ |
 | Landon | _______ | _______ |
 
 ## Videos
