@@ -19,7 +19,7 @@ Each team member records a short video (max 3 minutes) explaining their vulnerab
 
 - Austin: https://youtube.com/watch?v=_______
 - Salman: https://youtube.com/watch?v=_______
-- Hunter: https://youtube.com/watch?v=_______
+- Hunter: https://www.youtube.com/watch?v=AbkXYNjAdjU
 - Landon: https://youtube.com/watch?v=_______
 
 ## Target
