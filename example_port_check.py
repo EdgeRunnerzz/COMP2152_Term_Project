@@ -19,9 +19,14 @@
 
 import socket
 
+<<<<<<< HEAD
 target = "api.0x10.cloud"
 port = 2525
 
+=======
+target = "ssh.0x10.cloud"
+port = 2323
+>>>>>>> 456807ce2dc764e86c5547ad52f24c9ea6caadc3
 
 print("=" * 50)
 print("  Open Port Check (Telnet)")

@@ -14,7 +14,11 @@
 
 import urllib.request
 
+<<<<<<< HEAD
 target = "http://webhook.0x10.cloud"
+=======
+target = "https://old.0x10.cloud/"
+>>>>>>> 456807ce2dc764e86c5547ad52f24c9ea6caadc3
 
 print("=" * 50)
 print("  HTTPS Check")
