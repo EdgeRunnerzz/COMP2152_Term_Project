@@ -8,18 +8,18 @@ Team EdgeRunnerzz
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| Austin | _______ | _______ |
+| Austin | Legacy Server Security Analysis | austin_legacy_analysis |
 | Salman | _______ | _______ |
-| Hunter | _______ | _______ |
+| Hunter | 	Deceptive Resources | hunterBranch |
 | Landon | _______ | _______ |
 
 ## Videos
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Austin: https://youtube.com/watch?v=_______
+- Austin: https://www.youtube.com/watch?v=ncS4hi9sr98
 - Salman: https://youtube.com/watch?v=_______
-- Hunter: https://youtube.com/watch?v=_______
+- Hunter: https://www.youtube.com/watch?v=AbkXYNjAdjU
 - Landon: https://youtube.com/watch?v=_______
 
 ## Target
